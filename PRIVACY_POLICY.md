@@ -106,9 +106,9 @@ The App does not track users across third-party websites or services, and theref
 
 If you have any questions or concerns about this Privacy Policy or our practices, please contact us at:
 
-**Email**: [your-email@example.com]
+**Email**: info@froggyeye.com
 
-**Developer**: [Your Name or Company Name]
+**Developer**: Froggy Eye Ltd
 
 ## Consent
 
